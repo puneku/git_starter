@@ -17,15 +17,15 @@
    17  git commit -m "Adding readme.md file"
    18  ls
    19  git branch -a
-   20  git remote add origin https://github.com/puneku/git_starter.git
+   20  git remote add origin https://github.com/test/git-start.git
    21  git branch -a
    22  git config
    23  git config --global
    24  git config --local
    25  git config -l
-   26  git remote set-url origin https://github.com/pune/git_starter.git
+   26  git remote set-url origin https://github.com/test/git-start.git
    27  git config -l
-   28  git remote set-url origin https://github.com/puneku/git_starter.git
+   28  git remote set-url origin https://github.com/test/git-start.git
    29  git push -u origin master
    30  git config -l
    31  git branch -a
